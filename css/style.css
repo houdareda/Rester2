@@ -191,7 +191,7 @@ html {
     content: '';
     position: absolute;
     top: 0;
-    right: 0;
+    right: 2px;
     width: 1px;
     height: 50%;
     background: #fff;
@@ -204,7 +204,7 @@ html {
     content: '';
     position: absolute;
     bottom: 0;
-    right: 0;
+    right: 2px;
     width: 1px;
     height: 50%;
     background: #fff;
